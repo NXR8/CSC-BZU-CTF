@@ -34,8 +34,7 @@ CSC-BZU{3nc0d1n9_fun_w17h_b45e64_r0t!3_he><}
 ```
 > ![Insert CyberChef Screenshot or Output Here](../image/PowerLiesInMulti-layeredEncoding.png)
 
----
 
-## Decode file content and read story
+## 🌟 Decode file content and read story
 
 
