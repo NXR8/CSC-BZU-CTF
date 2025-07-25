@@ -1,1 +1,0 @@
-# CSC-BZU-CTF
