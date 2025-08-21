@@ -16,7 +16,7 @@ def handle_client(conn, addr):
     N, e, c = generate_rsa_params()
     
     # Send values separated by newlines
-    conn.sendall(f"N = {N}\n\ne = {e}\n\nc = {c}\n\n".encode())
+    conn.sendall(f"N = {N}\n\ne = {e}\n\nC = {c}\n\n".encode())
     conn.close()
 
 def start_server(host='0.0.0.0', port=69):
